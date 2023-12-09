@@ -1,0 +1,12 @@
+C:\Users\redeb\RiderProjects\TucanNet\TucanNet\bin\Debug\net7.0\TucanNet.deps.json
+C:\Users\redeb\RiderProjects\TucanNet\TucanNet\bin\Debug\net7.0\TucanNet.dll
+C:\Users\redeb\RiderProjects\TucanNet\TucanNet\bin\Debug\net7.0\TucanNet.pdb
+C:\Users\redeb\RiderProjects\TucanNet\TucanNet\obj\Debug\net7.0\TucanNet.csproj.AssemblyReference.cache
+C:\Users\redeb\RiderProjects\TucanNet\TucanNet\obj\Debug\net7.0\TucanNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redeb\RiderProjects\TucanNet\TucanNet\obj\Debug\net7.0\TucanNet.AssemblyInfoInputs.cache
+C:\Users\redeb\RiderProjects\TucanNet\TucanNet\obj\Debug\net7.0\TucanNet.AssemblyInfo.cs
+C:\Users\redeb\RiderProjects\TucanNet\TucanNet\obj\Debug\net7.0\TucanNet.csproj.CoreCompileInputs.cache
+C:\Users\redeb\RiderProjects\TucanNet\TucanNet\obj\Debug\net7.0\TucanNet.dll
+C:\Users\redeb\RiderProjects\TucanNet\TucanNet\obj\Debug\net7.0\refint\TucanNet.dll
+C:\Users\redeb\RiderProjects\TucanNet\TucanNet\obj\Debug\net7.0\TucanNet.pdb
+C:\Users\redeb\RiderProjects\TucanNet\TucanNet\obj\Debug\net7.0\ref\TucanNet.dll
